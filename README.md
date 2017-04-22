@@ -2,6 +2,10 @@
 
 For more information about challenge 2, visit: https://hackfordemocracy.org/challenges/
 
+## Slides
+
+Slides from the ACLU's presentation can be found [here](./MIT hack ACLU slides.pptx)
+
 ### List of Sources
 
 * City of Boston data: https://data.cityofboston.gov/
