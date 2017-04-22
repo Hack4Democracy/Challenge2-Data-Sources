@@ -4,7 +4,7 @@ For more information about challenge 2, visit: https://hackfordemocracy.org/chal
 
 ## Slides
 
-Slides from the ACLU's presentation can be found [here](./MIT\ hack\ ACLU\ slides.pptx)
+Slides from the ACLU's presentation can be found [here](./ACLU-slides.pptx)
 
 ### List of Sources
 
